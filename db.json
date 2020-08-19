@@ -1,4 +1,9 @@
 {
+  "users": [
+    { "id": 122, "name": "Julio", "surname": "Morantes", "email": "hornyJulio@gmail.ht" },
+    { "id": 122, "name": "Juan", "surname": "Pablo-Montoya", "email": "amazingPablito@gmail.ht" },
+    { "id": 122, "name": "Pablo", "surname": "Escobar", "email": "undesputedDrugseller@gmail.ht" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
